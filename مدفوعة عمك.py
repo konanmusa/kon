@@ -27,7 +27,7 @@ t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
 
 hours = (now.hour)
 x = datetime.datetime.now()
-g= datetime.datetime(2023, 11, 9, 0, 00 ,0)
+g= datetime.datetime(2023,11 , 9, 1, 00 ,0)
 
 if (x.strftime("%x"))>(g.strftime("%x")):
  print('\n\n')
@@ -1116,4 +1116,4 @@ def setting():
 		taplikasi.append('ya')
 	else:
 		taplikasi.append('no')
-	pwplus=
+	pwplus=i
